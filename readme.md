@@ -1,3 +1,3 @@
-## halo ini versi 2
+## Github CLI API Parser (CLI wrapper)
 
-ini testing parser doang kok
+Python based Github API CLI Wrapper (~~silly me github api endpoint exists 💀~~) 
